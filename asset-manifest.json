@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/react-nutflex/static/js/main.81ad54d3.js",
+    "main.js": "/react-nutflex/static/js/main.62162046.js",
+    "static/media/nutflex-logo.svg": "/react-nutflex/static/media/nutflex-logo.44e0c70b474b6c81cb091bbb04726f68.svg",
     "index.html": "/react-nutflex/index.html",
-    "main.81ad54d3.js.map": "/react-nutflex/static/js/main.81ad54d3.js.map"
+    "main.62162046.js.map": "/react-nutflex/static/js/main.62162046.js.map"
   },
   "entrypoints": [
-    "static/js/main.81ad54d3.js"
+    "static/js/main.62162046.js"
   ]
 }
